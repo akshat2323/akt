@@ -38,3 +38,9 @@ h1{
     display: block;
     box-sizing: border-box;
 }
+.btn{
+  border-radius : 8px;
+}
+.btn2{
+  border-radius : 8px;
+}
