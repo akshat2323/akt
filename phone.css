@@ -1,0 +1,40 @@
+
+body{
+    background-color: rgba(208, 241, 207, 0.938);
+}
+h1{
+    font-size: 21px;
+}
+.m{
+    display: block;
+    box-sizing: border-box;
+}
+.l{
+    display: block;
+    box-sizing: border-box;
+    width: 63%;
+    height: 40%;
+}
+.ls{
+    justify-content: center;
+    align-items: center;
+}
+.rt{
+    display: block;
+    box-sizing: border-box;
+    left: -3px;
+}
+.rb{
+    display: block;
+    box-sizing: border-box;
+    top: 1500px;
+    left: -2px;
+}
+.s{
+    display: block;
+    box-sizing: border-box;
+}
+.rb.s{
+    display: block;
+    box-sizing: border-box;
+}

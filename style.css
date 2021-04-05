@@ -1,0 +1,98 @@
+/* CSS Reset */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+h1{
+    position: sticky;
+
+}
+p{
+    font-size: 1.2rem;
+
+}
+
+body{
+    background-color: rgba(208, 241, 207, 0.938);
+    font-family: 'Akaya Telivigala', cursive;
+}
+
+.m{
+    display: flex;
+    height: 990px;
+    width: 100%;
+    align-content: center ;
+}
+.l{
+    background-color: white;
+    display: flex;
+    height: 700px;
+    width: 120px;
+    padding: 22px;
+    padding-top: 0px;
+    flex-wrap: wrap;
+    align-items: center;
+
+}
+.rt{
+
+    display: flex;
+    height: 300px;
+    width: 1021px;
+    align-items: center;
+    position: relative;
+    top: 76px;
+    left: 100px;
+    margin: 0%;
+}
+
+.rb{
+
+    display: flex;
+    height: 300px;
+    width: 1200px;
+    align-items: center;
+    position: relative;
+    top: 570px;
+    left: -980px;
+    margin: 0%;
+}
+.s
+{
+    background-color: white;
+    height: 425px;
+    width: 256px;
+    margin: 6px;
+    padding: 6px;
+}
+.btn{
+    background-color: chartreuse;
+    border-radius: 10px;
+    margin: 2px;
+    padding: 6px;
+    cursor: pointer;
+}
+.btn2{
+    background-color: chartreuse;
+    border-radius: 10px;
+    margin: 2px;
+    padding: 6px;
+    cursor: pointer;
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+.btn:hover{
+    text-decoration: underline;
+    color: rgb(127, 155, 5);
+    
+}
+.btn2:hover{
+    text-decoration: underline;
+    color: rgb(127, 155, 5);
+}
